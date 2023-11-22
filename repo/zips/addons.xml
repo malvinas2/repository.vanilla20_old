@@ -143,7 +143,7 @@
     <description lang="en">Titan UI Sounds (Modern)</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="screensaver.video" name="VideoScreensaver" version="120.11.01" provider-name="malvinas2">
+</addon><addon id="screensaver.video" name="VideoScreensaver" version="120.11.22" provider-name="malvinas2">
 	<requires>
 		<import addon="xbmc.python" version="3.00.0" />
 		<import addon="script.module.simplejson" version="3.3.0" />
