@@ -850,7 +850,7 @@ https://github.com/robwebset/script.videoextras/wiki</disclaimer>
 			<logo>resources/logo.png</logo>
 		</assets>
 	</extension>
-</addon><addon id="skin.titan.vanilla" version="20.23.11.01" name="Titan Vanilla" provider-name="malvinas2,marcelveldt">
+</addon><addon id="skin.titan.vanilla" version="20.23.11.22" name="Titan Vanilla" provider-name="malvinas2,marcelveldt">
 	<requires>
 		<import version="5.16.0" addon="xbmc.gui" />	
 		<import addon="script.skinshortcuts" version="2.0.3" />
